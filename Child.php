@@ -13,7 +13,7 @@ class Child {
   public function getName() {
     return $this->name;
   }
-
+//hi connor!!!!!!!!!!!!!!
   public function getAge() {
     return $this->age;
   }
